@@ -1,4 +1,3 @@
-﻿# Retail-Billing-Syatem
 # Retail Billing System
 
 ## Overview
